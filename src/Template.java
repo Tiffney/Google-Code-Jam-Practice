@@ -1,13 +1,15 @@
 /**
- * Created by Tiffney on 4/10/2016.
+ * Created by Tiffney on 4/9/2016.
  */
 import java.util.*;
 import java.io.*;
-public class QRAMinimumScalarProduct {
+import java.util.Collections;
+
+public class Template {
     public static void main(String[] args) {
         Scanner in = null;
         try {
-            in = new Scanner(new File("C:\\Users\\Tiffney\\IdeaProjects\\Google Code Jam 2016\\src\\A-large.in"));
+            in = new Scanner(new File("C:\\Users\\Tiffney\\Documents\\GitHub\\Google-Code-Jam-Practice\\in\\R1A2008"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -15,6 +17,10 @@ public class QRAMinimumScalarProduct {
 
         for (int i = 1; i <= tests; ++i) {
             int number = in.nextInt();
+            if (number == 0) {
+                System.out.println("Case #" + i + ": ");
+                continue;
+            }
 
             System.out.println("Case #" + i + ": ");
         }
