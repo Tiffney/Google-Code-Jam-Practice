@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f38c33-bce2-41ce-ab7c-c2871b566f40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/in/QRAAfrica2010" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Google-Code-Jam-Practice/QRBAfrica2010ReverseWords.class" afterPath="$PROJECT_DIR$/out/production/Google-Code-Jam-Practice/QRBAfrica2010ReverseWords.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java" afterPath="$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java" afterPath="$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Template.java" afterPath="$PROJECT_DIR$/src/Template.java" />
     </list>
     <ignored path="Google-Code-Jam-Practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QRAAfrica2010StoreCredit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QRAAfrica2010StoreCredit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="119">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -39,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Template.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="QRBAfrica2010ReverseWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Template.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Template.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="7" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+              <caret line="5" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -71,13 +80,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Template.java" />
         <option value="$PROJECT_DIR$/in/R1A2008" />
         <option value="$PROJECT_DIR$/src/R1A2008MinimumScalarProduct.java" />
         <option value="$PROJECT_DIR$/in/QRBAfrica2010" />
-        <option value="$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java" />
         <option value="$PROJECT_DIR$/in/QRAAfrica2010" />
         <option value="$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java" />
+        <option value="$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/Template.java" />
       </list>
     </option>
   </component>
@@ -624,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/in/QRAAfrica2010">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -650,7 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java">
+    <entry file="file://$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -660,10 +659,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QRAAfrica2010StoreCredit.java">
+    <entry file="file://$PROJECT_DIR$/src/QRBAfrica2010ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
